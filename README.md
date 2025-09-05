@@ -1,7 +1,5 @@
 # Anatomy-Volume-Analysis
 
-# MATLAB class Anatomy Volume Analysis – Volume-Oriented Workflow for Anatomical Meshes
-
 The MATLAB class **Anatomy Volume Analysis** provides a volume-oriented workflow for anatomical surface meshes.  
 It detects boundary loops, patches holes, generates shrink-wrapped surfaces, reconstructs surfaces from point clouds, and fills regions with structured point sets for intersection/volume computations.  
 The volume class is for geometry-processing tasks where robust, watertight models and volumetric point sets are required.
